@@ -7,6 +7,8 @@ Beyond personal connections, our platform encourages participation in large-scal
 Join us in redefining social interaction in the digital age with a fresh perspective on location-based AR communication.
 [Demo](https://www.youtube.com/watch?v=4D7088dEMl4)
 
+Edit: Co-created with 6 other collaborators, all CS undergrads at Yale.
+
 ## Table of Contents
 1. [MVP Requirement Fullfillment](#mvp-requirement-fullfillment)
 2. [Deployment](#deployment)
